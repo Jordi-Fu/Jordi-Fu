@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Jordi Fernandez</h1>
 <h3 align="center">Soy un programador web junior apasionado por crear experiencias digitales atractivas y funcionales, siempre en busca de nuevos retos para seguir aprendiendo y creciendo profesionalmente.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
